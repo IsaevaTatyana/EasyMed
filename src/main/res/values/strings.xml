@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">EasyMed</string>
+    <string name="start">Старт</string>
+    <string name="EasyMed">EasyMed</string>
+    <string name="Start">Старт</string>
+    <string name="Back">Назад</string>
+    <string name="level">Тема:</string>
+    <string name="level1">Тема: Анатомия</string>
+    <string name="level2">Тема: Биохимия</string>
+    <string name="level3">Тема: Физиология</string>
+    <string name="level4">Тема: Микробиология</string>
+    <string name="level5">Тема: Фармакологияя</string>
+    <string name="textcontinue">Продолжить</string>
+    <string name="finish">"Поздравляем уровень пройден!"</string>
+</resources>

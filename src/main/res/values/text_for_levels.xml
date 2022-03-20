@@ -1,0 +1,342 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+
+<!--    вопросы уровеньо 1    -->
+    <string name="lvl_1_quest_0">Сколько костей в черепе?</string>
+    <string name="lvl_1_quest_1">Где находится печень?</string>
+    <string name="lvl_1_quest_2">Сколько камер в сердце?</string>
+    <string name="lvl_1_quest_3">Какие клетки крови переносят кислород?</string>
+    <string name="lvl_1_quest_4">Что отсутствует в плазме крови?</string>
+    <string name="lvl_1_quest_5">Сколько оболочек у головного мозга?</string>
+    <string name="lvl_1_quest_6">Самая крупная клетка организма?</string>
+    <string name="lvl_1_quest_7">Сколько ребер у человека?</string>
+    <string name="lvl_1_quest_8">Где находится центр зрения в головном мозге?</string>
+    <string name="lvl_1_quest_9">Что является мельчайшим сосудом кровеносной системы?</string>
+
+
+
+<!--    вопросы уровень 2 -->
+    <string name="lvl_2_quest_0">Полисахарид из клеток печени, служащий основным запасным углеводам и основной формой хранения глюкозы</string>
+    <string name="lvl_2_quest_1">Фермент, находящийся в слюне, принимающий участие в начальном этапе пищеварения</string>
+    <string name="lvl_2_quest_2">Какова суточная потребность в углеводах у взрослых, не обладающих хроническими заболеваниями?</string>
+    <string name="lvl_2_quest_3">Какова основная функция углеводов в организме?</string>
+    <string name="lvl_2_quest_4">Как называется химическая реакция в результате которой образуется пируват?</string>
+    <string name="lvl_2_quest_5">Сколько молекул углерода содержит рибоза? </string>
+    <string name="lvl_2_quest_6">Какой нормальный уровень инсулина в крови у беременных женщин?</string>
+    <string name="lvl_2_quest_7">Каково нормальное содержание лейкоцитов в крови взрослого мужчины?</string>
+    <string name="lvl_2_quest_8">Какой гормон вырабатывается в задней доле гипофиза и отвечает за сужение сосудов?</string>
+    <string name="lvl_2_quest_9">Гормон синтезируется из холестерина яичниками у женщин и корой надпочечников и у мужчин?</string>
+
+
+
+<!--    Вопросы 3 (но для темы 3) -->
+
+    <string name="lvl_3_quest_0">Пример грамоотрицательных ниспороносных бактерий, имеющих форму палочек:</string>
+    <string name="lvl_3_quest_1">Чистая культура бактерий, грибов, и инных микроорганизмов, это</string>
+    <string name="lvl_3_quest_2">К факторам, влияющим на сбалансированный рост бактерий, относят:</string>
+    <string name="lvl_3_quest_3">Условиями, стимулирующими капсулообразование у бактерий, являются:</string>
+    <string name="lvl_3_quest_4">Полисахаридная капсула обеспечивает:</string>
+    <string name="lvl_3_quest_5">Подвижность бактерий обеспечивается </string>
+    <string name="lvl_3_quest_6">Для определения подвижности бактерий можно применять следующие методы</string>
+    <string name="lvl_3_quest_7">Пигменты бактерий выполняют следующие функции:</string>
+    <string name="lvl_3_quest_8">Для выявления клеточной стенки применяют следующие методы: </string>
+    <string name="lvl_3_quest_9">Условиями, способствующими спорообразованию, являются</string>
+
+    <!--    Вопросы 4 ( но для темы 3) -->
+
+    <string name="lvl_4_quest_0">Какие разновидности крови вы знаете:</string>
+    <string name="lvl_4_quest_1">Назовите функции крови:</string>
+    <string name="lvl_4_quest_2">Какое количество крови в организме взрослого человека?</string>
+    <string name="lvl_4_quest_3">Что не относится к форменным элементам клеток крови:</string>
+    <string name="lvl_4_quest_4">Сколько в среднем живет эритроцит?</string>
+    <string name="lvl_4_quest_5">Какого типа гемоглобина у человека не существует?</string>
+    <string name="lvl_4_quest_6">Как называется гемоглобин, несущий на себе кислород?</string>
+    <string name="lvl_4_quest_7">Как называется уменьшение лейкоцитов в крови:</string>
+    <string name="lvl_4_quest_8">Что такое лейкоцитарная формула? </string>
+    <string name="lvl_4_quest_9">Как называется гемоглобин, несущий на себе углекислый газ?</string>
+
+
+    <!--    Вопросы 5 -->
+
+    <string name="lvl_5_quest_0">Эти лекарственные формы получают методом растворения лекарственных веществ в растворителе</string>
+    <string name="lvl_5_quest_1">Это твердая лекарственная форма вещества изготавливается наслаиванием лекарственных веществ на гранулы</string>
+    <string name="lvl_5_quest_2">Вещество применяемое с целью лечения какого-либо заболевания или его профилактики</string>
+    <string name="lvl_5_quest_3">Жидкости, получаемые из растений с ароматическим запахом и антисептическими свойствами это</string>
+    <string name="lvl_5_quest_4">Мягкая, вязкая лекарственная форма, применяется снаружи и содержит менее 25% сухих веществ это</string>
+    <string name="lvl_5_quest_5">Энтеральный путь введения препарата включает в себя:</string>
+    <string name="lvl_5_quest_6">Перемещение веществ через мембраны с помощью транспортных систем, содержавщихся в самих мембранах это</string>
+    <string name="lvl_5_quest_7">Головокружение, вялость, сонливость тошнота, рвота, кожный зуд, запор это побочные действия препарата</string>
+
+<!--   скопированные два-->
+    <string name="lvl_5_quest_8">Энтеральный путь введения препарата включает в себя:</string>
+    <string name="lvl_5_quest_9">Полисахаридная капсула обеспечивает:</string>
+
+
+    <!--        ответы уровень 1       -->
+
+    <string name="lvl_1_q_0_answ_0">23</string>
+    <string name="lvl_1_q_0_answ_1">2</string>
+    <string name="lvl_1_q_0_answ_2">5</string>
+    <string name="lvl_1_q_0_answ_3">44</string>
+
+    <string name="lvl_1_q_1_answ_0">слева под ребарми</string>
+    <string name="lvl_1_q_1_answ_1">справа под ребрами</string>
+    <string name="lvl_1_q_1_answ_2">в области пупка</string>
+    <string name="lvl_1_q_1_answ_3">справа внизу живота</string>
+
+    <string name="lvl_1_q_2_answ_0">4</string>
+    <string name="lvl_1_q_2_answ_1">6</string>
+    <string name="lvl_1_q_2_answ_2">3</string>
+    <string name="lvl_1_q_2_answ_3">1</string>
+
+    <string name="lvl_1_q_3_answ_0">тромбоциты</string>
+    <string name="lvl_1_q_3_answ_1">лейкоциты</string>
+    <string name="lvl_1_q_3_answ_2">эритроциты</string>
+    <string name="lvl_1_q_3_answ_3">лимфоциты</string>
+
+    <string name="lvl_1_q_4_answ_0">белки</string>
+    <string name="lvl_1_q_4_answ_1">жиры</string>
+    <string name="lvl_1_q_4_answ_2">углеводы</string>
+    <string name="lvl_1_q_4_answ_3">нуклеиновые кислоты</string>
+
+    <string name="lvl_1_q_5_answ_0">5</string>
+    <string name="lvl_1_q_5_answ_1">3</string>
+    <string name="lvl_1_q_5_answ_2">0</string>
+    <string name="lvl_1_q_5_answ_3">1</string>
+
+    <string name="lvl_1_q_6_answ_0">клетки мозга</string>
+    <string name="lvl_1_q_6_answ_1">яйцеклетки</string>
+    <string name="lvl_1_q_6_answ_2">сперматозоиды</string>
+    <string name="lvl_1_q_6_answ_3">клетки печени</string>
+
+    <string name="lvl_1_q_7_answ_0">12</string>
+    <string name="lvl_1_q_7_answ_1">11</string>
+    <string name="lvl_1_q_7_answ_2">24</string>
+    <string name="lvl_1_q_7_answ_3">23</string>
+
+    <string name="lvl_1_q_8_answ_0">лобная область</string>
+    <string name="lvl_1_q_8_answ_1">височная область</string>
+    <string name="lvl_1_q_8_answ_2">теменная область</string>
+    <string name="lvl_1_q_8_answ_3">затылочная область</string>
+
+    <string name="lvl_1_q_9_answ_0">артерия</string>
+    <string name="lvl_1_q_9_answ_1">вена</string>
+    <string name="lvl_1_q_9_answ_2">артериола</string>
+    <string name="lvl_1_q_9_answ_3">капилляр</string>
+
+
+<!--            ответы уровень 2        -->
+
+    <string name="lvl_2_q_0_answ_0">хитин</string>
+    <string name="lvl_2_q_0_answ_1">крахмал</string>
+    <string name="lvl_2_q_0_answ_2">гликоген</string> //[EQ
+    <string name="lvl_2_q_0_answ_3">инулин</string>
+
+    <string name="lvl_2_q_1_answ_0">муцин</string>
+    <string name="lvl_2_q_1_answ_1">пепсин</string>
+    <string name="lvl_2_q_1_answ_2">трипсин</string>
+    <string name="lvl_2_q_1_answ_3">амилаза</string> //[EQ
+
+    <string name="lvl_2_q_2_answ_0">50-100 гр на 1 кг массы</string>
+    <string name="lvl_2_q_2_answ_1">10-15 гр на 1 кг массы</string>
+    <string name="lvl_2_q_2_answ_2">25-45 гр на 1 кг массы</string>
+    <string name="lvl_2_q_2_answ_3">400-500 гр на 1 кг массы</string> //[EQ
+
+    <string name="lvl_2_q_3_answ_0">структурная и резервная</string> //[EQ
+    <string name="lvl_2_q_3_answ_1">двигательная </string>
+    <string name="lvl_2_q_3_answ_2">резервная и проводящая</string>
+    <string name="lvl_2_q_3_answ_3">защитная и пластическая</string>
+
+    <string name="lvl_2_q_4_answ_0">циклкребса</string>
+    <string name="lvl_2_q_4_answ_1">аэробный гликолиз</string> //[EQ
+    <string name="lvl_2_q_4_answ_2">липогенез</string>
+    <string name="lvl_2_q_4_answ_3">цикл мочевины</string>
+
+    <string name="lvl_2_q_5_answ_0">12</string>
+    <string name="lvl_2_q_5_answ_1">6</string>
+    <string name="lvl_2_q_5_answ_2">8</string>
+    <string name="lvl_2_q_5_answ_3">5</string> //[EQ
+
+    <string name="lvl_2_q_6_answ_0">6-27/36 мкЕд/мл</string> //[EQ
+    <string name="lvl_2_q_6_answ_1">25 мкЕд/мл</string>
+    <string name="lvl_2_q_6_answ_2">3-20/35 мкЕд/мл</string>
+    <string name="lvl_2_q_6_answ_3">35-42 мкЕд/мл</string>
+
+    <string name="lvl_2_q_7_answ_0">1000-2000</string>
+    <string name="lvl_2_q_7_answ_1">10 000-15 000</string>
+    <string name="lvl_2_q_7_answ_2">5000-10 000</string> //[EQ
+    <string name="lvl_2_q_7_answ_3">4500-8000</string>
+
+    <string name="lvl_2_q_8_answ_0">окситоцин</string>
+    <string name="lvl_2_q_8_answ_1">валитоцин</string>
+    <string name="lvl_2_q_8_answ_2">тиреотропный гормон</string>
+    <string name="lvl_2_q_8_answ_3">вазопрессин</string> //[EQ
+
+    <string name="lvl_2_q_9_answ_0">прогестерон</string>
+    <string name="lvl_2_q_9_answ_1">эстрадиол</string>
+    <string name="lvl_2_q_9_answ_2">тестостерон</string> //[EQ
+    <string name="lvl_2_q_9_answ_3">андростерон</string>
+
+
+
+<!--    ответы  3 (но используется в 4 теме) -->
+
+    <string name="lvl_3_q_0_answ_0">бацила</string>
+    <string name="lvl_3_q_0_answ_1">стрептобактерия</string>
+    <string name="lvl_3_q_0_answ_2">сальмонелла</string> //[EQ
+    <string name="lvl_3_q_0_answ_3">плектридии</string>
+
+    <string name="lvl_3_q_1_answ_0">серовар</string>
+    <string name="lvl_3_q_1_answ_1">биотип</string>
+    <string name="lvl_3_q_1_answ_2">фаготип</string>
+    <string name="lvl_3_q_1_answ_3">штамм</string> //[EQ
+
+    <string name="lvl_3_q_2_answ_0">давление кислорода</string> //[EQ
+    <string name="lvl_3_q_2_answ_1">содержание неорганических ионов</string>
+    <string name="lvl_3_q_2_answ_2">парциальное давление двуокиси углерода</string>
+    <string name="lvl_3_q_2_answ_3">природа имеющихся в резерве органических соединений</string>
+
+    <string name="lvl_3_q_3_answ_0">рост бактерий в организме человека или животных</string>
+    <string name="lvl_3_q_3_answ_1">рост на синтетических средах</string> //[EQ
+    <string name="lvl_3_q_3_answ_2">культивирование при низких температурах</string>
+    <string name="lvl_3_q_3_answ_3">рост на средах, содержащих большое количество углеводов</string>
+
+    <string name="lvl_3_q_4_answ_0">вирулентность</string>  //[EQ
+    <string name="lvl_3_q_4_answ_1">резистентность к фагоцитозу</string>
+    <string name="lvl_3_q_4_answ_2">резистентность к антибиотикам</string>
+    <string name="lvl_3_q_4_answ_3">все вышеперечисленное</string>
+
+    <string name="lvl_3_q_5_answ_0">вращением жгутиков</string>
+    <string name="lvl_3_q_5_answ_1">фимбриями</string>//[EQ
+    <string name="lvl_3_q_5_answ_2">сокращением клеточной стенки</string>
+    <string name="lvl_3_q_5_answ_3">пилями</string>
+
+    <string name="lvl_3_q_6_answ_0">метод серебрения по Морозову</string> //[EQ
+    <string name="lvl_3_q_6_answ_1">метод "висячей капли"</string>
+    <string name="lvl_3_q_6_answ_2">посев по Шукевичу</string>
+    <string name="lvl_3_q_6_answ_3">метод Вейнберга</string>
+
+    <string name="lvl_3_q_7_answ_0">защиты от действия света</string>
+    <string name="lvl_3_q_7_answ_1">выполнения каталитической функции</string> //[EQ
+    <string name="lvl_3_q_7_answ_2">защиты от действия инфракрасных лучей</string>
+    <string name="lvl_3_q_7_answ_3">определяет антигенную структуру</string>
+
+    <string name="lvl_3_q_8_answ_0">метод Грама</string>
+    <string name="lvl_3_q_8_answ_1">) метод Циля-Нильсена</string>
+    <string name="lvl_3_q_8_answ_2">метод Нейссера</string> //[EQ
+    <string name="lvl_3_q_8_answ_3">метод Ожешки</string>
+
+    <string name="lvl_3_q_9_answ_0">недостаток питательных веществ в среде</string>
+    <string name="lvl_3_q_9_answ_1">накопление продуктов обмена</string>
+    <string name="lvl_3_q_9_answ_2">накопления внутри клеток запасных веществ</string>
+    <string name="lvl_3_q_9_answ_3">добавления глюкозы в питательную среду</string> //[EQ
+
+
+
+
+    <!--    ответы  4 (но используется в 3 теме) -->
+
+    <string name="lvl_4_q_0_answ_0">артериальная</string>
+    <string name="lvl_4_q_0_answ_1">венозная</string>
+    <string name="lvl_4_q_0_answ_2">циркуляторная</string> //[EQ
+    <string name="lvl_4_q_0_answ_3">всё вышеперечисленное</string>
+
+    <string name="lvl_4_q_1_answ_0">питательная</string>
+    <string name="lvl_4_q_1_answ_1">дыхательная</string>
+    <string name="lvl_4_q_1_answ_2">выделительная</string>
+    <string name="lvl_4_q_1_answ_3">всё вышеперечисленное</string> //[EQ
+
+    <string name="lvl_4_q_2_answ_0">10%</string> //[EQ
+    <string name="lvl_4_q_2_answ_1">6-8%</string>
+    <string name="lvl_4_q_2_answ_2">7-9%</string>
+    <string name="lvl_4_q_2_answ_3">11-12%</string>
+
+    <string name="lvl_4_q_3_answ_0">эритроциты</string>
+    <string name="lvl_4_q_3_answ_1">нейтрофилы</string> //[EQ
+    <string name="lvl_4_q_3_answ_2">лейкоциты</string>
+    <string name="lvl_4_q_3_answ_3">тромбоциты</string>
+
+    <string name="lvl_4_q_4_answ_0">20 дней</string>  //[EQ
+    <string name="lvl_4_q_4_answ_1">40 дней</string>
+    <string name="lvl_4_q_4_answ_2">80 дней</string>
+    <string name="lvl_4_q_4_answ_3">120 дней</string>
+
+    <string name="lvl_4_q_5_answ_0">примитивный</string>
+    <string name="lvl_4_q_5_answ_1">фетальный</string>//[EQ
+    <string name="lvl_4_q_5_answ_2">взрослый</string>
+    <string name="lvl_4_q_5_answ_3">животный</string>
+
+    <string name="lvl_4_q_6_answ_0">карбгемоглобин</string> //[EQ
+    <string name="lvl_4_q_6_answ_1">оксигемоглобин</string>
+    <string name="lvl_4_q_6_answ_2">метгемоглобин</string>
+    <string name="lvl_4_q_6_answ_3">карбоксигемоглобин</string>
+
+    <string name="lvl_4_q_7_answ_0">нейтропения</string>
+    <string name="lvl_4_q_7_answ_1">моноцитоз</string> //[EQ
+    <string name="lvl_4_q_7_answ_2">лейкопения</string>
+    <string name="lvl_4_q_7_answ_3">лейкоцитоз</string>
+
+    <string name="lvl_4_q_8_answ_0">% отдельных видов лейкоцитов</string>
+    <string name="lvl_4_q_8_answ_1">% лейкоцитов и эритроцитов</string>
+    <string name="lvl_4_q_8_answ_2">% эозинофилов и нейтрофилов</string> //[EQ
+    <string name="lvl_4_q_8_answ_3">% элементов крови между собой</string>
+
+    <string name="lvl_4_q_9_answ_0">карбгемоглобин</string>
+    <string name="lvl_4_q_9_answ_1">оксигемоглобин</string>
+    <string name="lvl_4_q_9_answ_2">метгемоглобин</string>
+    <string name="lvl_4_q_9_answ_3">карбоксигемоглобин</string> //[EQ
+
+<!--    ответ 5  -->
+
+    <string name="lvl_5_q_0_answ_0">настои  </string>
+    <string name="lvl_5_q_0_answ_1">экстракты</string>
+    <string name="lvl_5_q_0_answ_2">растворы</string> //[EQ
+    <string name="lvl_5_q_0_answ_3">калиновые препараты</string>
+
+    <string name="lvl_5_q_1_answ_0">порошок</string>
+    <string name="lvl_5_q_1_answ_1">таблетка</string>
+    <string name="lvl_5_q_1_answ_2">капсула</string>
+    <string name="lvl_5_q_1_answ_3">драже</string> //[EQ
+
+    <string name="lvl_5_q_2_answ_0">лекарственный препарат</string> //[EQ
+    <string name="lvl_5_q_2_answ_1">рецепт</string>
+    <string name="lvl_5_q_2_answ_2">доза</string>
+    <string name="lvl_5_q_2_answ_3">лекарство</string>
+
+    <string name="lvl_5_q_3_answ_0">аппликации</string>
+    <string name="lvl_5_q_3_answ_1">бальзамы</string> //[EQ
+    <string name="lvl_5_q_3_answ_2">коллодии</string>
+    <string name="lvl_5_q_3_answ_3">сиропы</string>
+
+    <string name="lvl_5_q_4_answ_0">мази</string>  //[EQ
+    <string name="lvl_5_q_4_answ_1">пасты</string>
+    <string name="lvl_5_q_4_answ_2">линименты</string>
+    <string name="lvl_5_q_4_answ_3">кремы</string>
+
+    <string name="lvl_5_q_5_answ_0">электрофорез</string>
+    <string name="lvl_5_q_5_answ_1">сублингвально</string>//[EQ
+    <string name="lvl_5_q_5_answ_2">инъекции</string>
+    <string name="lvl_5_q_5_answ_3">нанесение на кожу</string>
+
+    <string name="lvl_5_q_6_answ_0">активный транспорт </string> //[EQ
+    <string name="lvl_5_q_6_answ_1">пассивная диффузия</string>
+    <string name="lvl_5_q_6_answ_2">фильтрация</string>
+    <string name="lvl_5_q_6_answ_3">пиноцитоз</string>
+
+    <string name="lvl_5_q_7_answ_0">пустырника форте </string>
+    <string name="lvl_5_q_7_answ_1">корень валерьяны </string> //[EQ
+    <string name="lvl_5_q_7_answ_2">корневище кровохлёбки</string>
+    <string name="lvl_5_q_7_answ_3"> аэкстракт календулы</string>
+
+    <string name="lvl_5_q_8_answ_0"> электрофорез</string>
+    <string name="lvl_5_q_8_answ_1">инъекции</string>
+    <string name="lvl_5_q_8_answ_2">сублингвально</string> //[EQ
+    <string name="lvl_5_q_8_answ_3">нанесение на кожу</string>
+
+    <string name="lvl_5_q_9_answ_0">рост бактерий в живом организме</string>
+    <string name="lvl_5_q_9_answ_1">рост на синтетических средах</string> //[EQ
+    <string name="lvl_5_q_9_answ_2">культивирование при низких температурах</string>
+    <string name="lvl_5_q_9_answ_3">рост на средах с большим количеством углеводов</string>
+
+</resources>
